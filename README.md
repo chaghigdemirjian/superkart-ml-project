@@ -45,10 +45,3 @@ Once satisfied, we confirmed the linear model was appropriate for prediction.
 - `superkart_ml.html`: Exported HTML report (viewable without code)
 
 ---
-
-## 🔗 Live Preview
-
-📄 [View the HTML Report](https://chaghigdemirjian.github.io/superkart-ml-project/superkart_ml.html)
-
----
-
